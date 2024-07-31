@@ -1,0 +1,10 @@
+[package]
+name = "math-eval"
+version = "0.1.0"
+description = "A rust math evaluation library, with a stateful context"
+authors = ["Nadjib Ferhat <nferhat20@gmail.com>"]
+license = "GPL-3.0"
+edition = "2021"
+repository = "https://github.com/nferhat/math-eval"
+
+[dependencies]
